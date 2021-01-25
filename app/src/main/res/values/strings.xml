@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Inventario</string>
+    <string name="title_activity_registro">Registro</string>
+    <!-- Text used to add new items -->
+    <string name="item_name">Nombre: </string>
+    <string name="item_detail">Descripción: </string>
+    <string name="item_lote">Lote: </string>
+    <string name="item_caducity">Caducidad: </string>
+    <string name="item_quantity">Cantidad: </string>
+    <string name="item_key">Clave: </string>
+    <!-- Text used to button names -->
+    <string name="cancel_text_button">Salir</string>
+    <string name="save_text_button_">Guardar</string>
+</resources>
